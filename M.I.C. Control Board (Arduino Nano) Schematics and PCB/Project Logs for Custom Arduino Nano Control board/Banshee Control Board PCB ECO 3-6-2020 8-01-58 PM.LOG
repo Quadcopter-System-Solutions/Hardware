@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=+5V Pin=Nano1-19
+Change Component Footprint: Designator=D1 Old Footprint=*0603 New Footprint=LEDC1608X50N
+Change Component Footprint: Designator=D2 Old Footprint=*0603 New Footprint=LEDC1608X50N
+Change Component Footprint: Designator=D3 Old Footprint=*0603 New Footprint=LEDC1608X50N
+Change Component Comment : Designator=D1 Old Comment=5mA New Comment=150060GS55040
+Change Component Comment : Designator=D2 Old Comment=5mA New Comment=150060GS55040
+Change Component Comment : Designator=D3 Old Comment=5mA New Comment=150060GS55040
+Change component parameters: Designator = "D1"; Footprint = "LEDC1608X50N"; UniqueID = "\YTBXKINC\QOOUNNHR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/150060GS55040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1766068P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1766068P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "LEDC1608X50N"; UniqueID = "\SFCLRTWZ\CWZOJWEF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/150060GS55040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1766068P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1766068P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "LEDC1608X50N"; UniqueID = "\BSUAPNFS\FDNZEWPM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.de/led/datasheet/150060GS55040.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-150060GS55040"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1766068P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1766068P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net_2 Pin=C4-2
+Added Pin To Net: NetName=Net_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=Net_2 Pin=Nano1-29
+Added Pin To Net: NetName=Net_2 Pin=R5-1
+Added Pin To Net: NetName=Net_2 Pin=RF1-7
+Added Pin To Net: NetName=Net_2 Pin=RF1-15
+Added Pin To Net: NetName=Net_2 Pin=RF1-18
+Added Pin To Net: NetName=5V Pin=Nano1-19
+Added Net: Name=5V
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R5-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R11-2
+Added Net: Name=NetD3_2
+Added Member To Class: ClassName=Nano Member=Component A I/O1 Analog I/O
+Added Member To Class: ClassName=Voltage Detection Member=Component Batt1 Header 4
+Added Member To Class: ClassName=Gyro Member=Component C1 Cap
+Added Member To Class: ClassName=Gyro Member=Component C2 Cap
+Added Member To Class: ClassName=RF Member=Component C3 33nF
+Added Member To Class: ClassName=RF Member=Component C4 10nF
+Added Member To Class: ClassName=RF Member=Component C5 1nF
+Added Member To Class: ClassName=RF Member=Component C6 1.5pF
+Added Member To Class: ClassName=RF Member=Component C7 1pF
+Added Member To Class: ClassName=RF Member=Component C8 22nF
+Added Member To Class: ClassName=RF Member=Component C9 4.7pF
+Added Member To Class: ClassName=RF Member=Component C10 12pF
+Added Member To Class: ClassName=RF Member=Component C11 12pF
+Added Member To Class: ClassName=Nano Member=Component C12 Cap
+Added Member To Class: ClassName=Nano Member=Component C13 Cap
+Added Member To Class: ClassName=Pressure Sensor Member=Component C14 
+Added Member To Class: ClassName=Pressure Sensor Member=Component C15 
+Added Member To Class: ClassName=Gyro Member=Component D1 150060GS55040
+Added Member To Class: ClassName=RF Member=Component D2 150060GS55040
+Added Member To Class: ClassName=Pressure Sensor Member=Component D3 150060GS55040
+Added Member To Class: ClassName=Nano Member=Component D I/O1 Digital I/O
+Added Member To Class: ClassName=Gyro Member=Component G1 LSM6DS3HTR
+Added Member To Class: ClassName=RF Member=Component J1 Antenna
+Added Member To Class: ClassName=RF Member=Component L1 3.9nH
+Added Member To Class: ClassName=RF Member=Component L2 8.2nH
+Added Member To Class: ClassName=RF Member=Component L3 2.7nH
+Added Member To Class: ClassName=Nano Member=Component M1 
+Added Member To Class: ClassName=Nano Member=Component M2 
+Added Member To Class: ClassName=Nano Member=Component M3 
+Added Member To Class: ClassName=Nano Member=Component M4 
+Added Member To Class: ClassName=Gyro Member=Component R1 Res1
+Added Member To Class: ClassName=Gyro Member=Component R2 Res1
+Added Member To Class: ClassName=Gyro Member=Component R3 1K
+Added Member To Class: ClassName=RF Member=Component R4 22K
+Added Member To Class: ClassName=RF Member=Component R5 1K
+Added Member To Class: ClassName=RF Member=Component R6 0402
+Added Member To Class: ClassName=Voltage Detection Member=Component R7 560k
+Added Member To Class: ClassName=Voltage Detection Member=Component R8 330k
+Added Member To Class: ClassName=Voltage Detection Member=Component R9 560k
+Added Member To Class: ClassName=Voltage Detection Member=Component R10 470k
+Added Member To Class: ClassName=Pressure Sensor Member=Component R11 1K
+Added Member To Class: ClassName=Pressure Sensor Member=Component R12 Res1
+Added Member To Class: ClassName=Pressure Sensor Member=Component R13 Res1
+Added Member To Class: ClassName=RF Member=Component RF1 NRF24L01
+Added Member To Class: ClassName=Pressure Sensor Member=Component  BMP280
+Added Member To Class: ClassName=RF Member=Component X1 16 MHz Crystal

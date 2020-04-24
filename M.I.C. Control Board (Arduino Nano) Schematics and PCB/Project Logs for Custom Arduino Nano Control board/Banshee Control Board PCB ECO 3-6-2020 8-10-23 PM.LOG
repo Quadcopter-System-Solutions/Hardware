@@ -1,0 +1,2 @@
+Change Class Name : Old Net Name=Pressure Sensor New Net Name=Altitude Sensor
+Added Member To Class: ClassName=Altitude Sensor Member=Component A1 BMP280

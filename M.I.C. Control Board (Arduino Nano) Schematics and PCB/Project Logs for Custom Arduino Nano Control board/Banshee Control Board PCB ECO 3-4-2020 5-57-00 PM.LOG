@@ -1,0 +1,38 @@
+Added Component: Designator=Nano(*SHIELD_ARDUINO_NANO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/A000005.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Arduino"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ARDNanoINV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "992-ARD-NANO30"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "http://www.mouser.com/Search/ProductDetail.aspx?qs=Vxac6xGyzPmCaTfvE003gg%3d%3d"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH1_2 Pin=Nano-1
+Added Pin To Net: NetName=NetH1_1 Pin=Nano-2
+Added Pin To Net: NetName=GND Pin=Nano-4
+Added Pin To Net: NetName=NetH1_3 Pin=Nano-5
+Added Pin To Net: NetName=NetM1_1 Pin=Nano-6
+Added Pin To Net: NetName=NetH1_4 Pin=Nano-7
+Added Pin To Net: NetName=NetM2_1 Pin=Nano-8
+Added Pin To Net: NetName=NetM3_1 Pin=Nano-9
+Added Pin To Net: NetName=NetH1_5 Pin=Nano-10
+Added Pin To Net: NetName=NetGyro_5 Pin=Nano-11
+Added Pin To Net: NetName=NetM4_1 Pin=Nano-12
+Added Pin To Net: NetName=NetNano_13 Pin=Nano-13
+Added Pin To Net: NetName=NetGyro_4 Pin=Nano-14
+Added Pin To Net: NetName=NetGyro_3 Pin=Nano-15
+Added Pin To Net: NetName=NetBATT_+ Pin=Nano-16
+Added Pin To Net: NetName=GND Pin=Nano-17
+Added Pin To Net: NetName=NetM1_2 Pin=Nano-19
+Added Pin To Net: NetName=NetH2_1 Pin=Nano-20
+Added Pin To Net: NetName=NetH2_2 Pin=Nano-21
+Added Pin To Net: NetName=NetH2_3 Pin=Nano-22
+Added Pin To Net: NetName=NetH2_4 Pin=Nano-23
+Added Pin To Net: NetName=NetH2_5 Pin=Nano-24
+Added Pin To Net: NetName=NetNano_25 Pin=Nano-25
+Added Pin To Net: NetName=NetNano_26 Pin=Nano-26
+Added Pin To Net: NetName=NetBatt_2 Pin=Nano-27
+Added Pin To Net: NetName=NetNano_29 Pin=Nano-29
+Added Pin To Net: NetName=NetGyro_2 Pin=Nano-30
+Added Member To Class: ClassName=Nano Member=Component Nano Arduino Nano Atmega 328P

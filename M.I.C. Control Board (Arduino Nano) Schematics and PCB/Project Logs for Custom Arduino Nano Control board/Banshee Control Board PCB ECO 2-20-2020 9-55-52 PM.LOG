@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=NetBattery Connector_4 Pin=R6-2
+Removed Pin From Net: NetName=NetBattery Connector_3 Pin=R8-2
+Removed Pin From Net: NetName=NetNano_27 Pin=R10-1
+Removed Pin From Net: NetName=NetBattery Connector_2 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=NetNano_27 Pin=R11-2
+Removed Member From Class: ClassName=RF Member=D2
+Removed Member From Class: ClassName=Voltage Detection Member=R10
+Removed Member From Class: ClassName=Voltage Detection Member=R11
+Change Component Comment : Designator=R7 Old Comment=??? New Comment=330k
+Change Component Comment : Designator=R9 Old Comment=??? New Comment=470k
+Change Component Comment : Designator=R6 Old Comment=??? New Comment=560k
+Change Component Comment : Designator=R8 Old Comment=??? New Comment=560k
+Added Component: Designator=Q1(SOT95P237X112-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70017403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/infineon-irlml6401trpbf/70017403/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/irlml6401pbf.pdf?fileId=5546d462533600a401535668b96d2634"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=942-IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "0301316P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/0301316P"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT95P237X112-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70017403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/infineon-irlml6401trpbf/70017403/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/irlml6401pbf.pdf?fileId=5546d462533600a401535668b96d2634"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=942-IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "0301316P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/0301316P"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT95P237X112-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70017403"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/infineon-irlml6401trpbf/70017403/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.infineon.com/dgdl/irlml6401pbf.pdf?fileId=5546d462533600a401535668b96d2634"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "942-IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=942-IRLML6401TRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "0301316P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/0301316P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetBattery Connector_4 Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=NetBattery Connector_3 Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetNano_27 Pin=Q3-2
+Added Pin To Net: NetName=NetBattery Connector_2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R6-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R8-2
+Added Net: Name=NetQ2_2
+Added Member To Class: ClassName=Vreg Member=Component L1 4.7uH
+Added Member To Class: ClassName=RF Member=Component L2 3.9nH
+Added Member To Class: ClassName=RF Member=Component L3 8.2nH
+Added Member To Class: ClassName=Voltage Detection Member=Component Q1 IRLML6401TRPBF
+Added Member To Class: ClassName=Voltage Detection Member=Component Q2 IRLML6401TRPBF
+Added Member To Class: ClassName=Voltage Detection Member=Component Q3 IRLML6401TRPBF

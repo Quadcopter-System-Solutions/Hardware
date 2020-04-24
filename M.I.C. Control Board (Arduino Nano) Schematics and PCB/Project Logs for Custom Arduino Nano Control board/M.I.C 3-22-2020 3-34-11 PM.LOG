@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Blue Pin=Nano1-25
+Removed Pin From Net: NetName=Green Pin=Nano1-26
+Removed Pin From Net: NetName=Red Pin=Nano1-27
+Added Pin To Net: NetName=Blue Pin=Nano1-20
+Added Pin To Net: NetName=Green Pin=Nano1-21
+Added Pin To Net: NetName=Red Pin=Nano1-24
+Added Pin To Net: NetName=NetBatt1_3 Pin=Nano1-27
+Added Pin To Net: NetName=NetNano1_25 Pin=Nano1-25
+Added Pin To Net: NetName=NetNano1_25 Pin=R7-1
+Added Pin To Net: NetName=NetNano1_25 Pin=R8-2
+Added Net: Name=NetNano1_25
+Added Pin To Net: NetName=NetNano1_26 Pin=Nano1-26
+Added Pin To Net: NetName=NetNano1_26 Pin=R9-1
+Added Pin To Net: NetName=NetNano1_26 Pin=R10-2
+Added Net: Name=NetNano1_26

@@ -1,0 +1,18 @@
+Added Component: Designator=(8-PIN-METAL-LID-LGA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "828-1064-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/bosch-sensortec/BMP280/828-1064-1-ND/6136315?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bosch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BMP280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-8 Bosch Sensortec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BMP280/Bosch%20Sensortec/view-part/1186631/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=-1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_3 Pin=-3
+Added Pin To Net: NetName=Net_4 Pin=-4
+Added Pin To Net: NetName=GND Pin=-5
+Added Pin To Net: NetName=Net_2 Pin=-6
+Added Pin To Net: NetName=GND Pin=-7
+Added Pin To Net: NetName=Net_2 Pin=-8
+Added Member To Class: ClassName=Designator Member=Component  BMP280

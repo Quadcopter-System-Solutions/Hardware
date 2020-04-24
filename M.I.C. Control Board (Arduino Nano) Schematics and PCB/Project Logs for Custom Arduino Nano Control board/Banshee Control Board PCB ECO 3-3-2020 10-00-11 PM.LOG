@@ -1,0 +1,5 @@
+Change Component Description : Designator=X1 Old Description=16MHz ±25ppm Crystal 12pF 50 Ohms 4-SMD, No Lead New Description=
+16MHz ±25ppm Crystal 12pF 50 Ohms 4-SMD, No Lead
+
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=Nano-17

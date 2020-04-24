@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Battery Connector1 NewDesignator=Battery Connector
+Change Net Name : Old Net Name=NetBattery Connector1_2 New Net Name=NetBattery Connector_2
+Change Net Name : Old Net Name=NetBattery Connector1_3 New Net Name=NetBattery Connector_3
+Change Net Name : Old Net Name=NetBattery Connector1_4 New Net Name=NetBattery Connector_4
