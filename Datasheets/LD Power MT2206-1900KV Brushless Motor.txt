@@ -1,0 +1,37 @@
+LDPOWER MT2206-1900KV Brushless Multicopter Motor (CW)
+
+Innovators in multicopter technology, LDPOWER, have released their long awaited series of premium multicopter motors. These have been stringently tested to ensure outstanding performance, reliability and durability.
+
+These motors are easy to install, very efficient and have no noise. They come in both CW and CCW formats.
+
+LDPOWER motors are premium quality and will definitely answer the need of serious builders and flyers of quads/multis everywhere.
+
+Specs:
+KV(RPM/V): 1900KV
+LiPoly cells: 7.4V-11.1V (2S-3S)
+Max Power: 323.8W
+Max Amps: 25.7A
+Dimensions(Dia.xL): 29.5 x 27.7mm
+Motor Shaft: 3mm
+Prop shaft: 5mm
+Weight: 34.7g
+Bolt hole spacing: 19mm-M3*2  16mm-M3*2
+Connectors: 2mm bullet
+
+Volts  Prop   Throttle  Amps  Watts     RPM     Thrust (g)
+7.4    6030   30%     1.8      13.32      8792      85
+7.4    6030   50%     2.7      19.98    10341     123
+7.4    6030   75%     3.9      28.86    11949     171
+7.4    6030   100%    5.3      39.22    13656     228
+7.4    6045   30%     2.5      18.5        7107     115.5
+7.4    6045   50%     3.7      27.38     8607      164.5
+7.4    6045   75%     6.0      44.4     10216      240
+7.4    6045   100%    9.2     68.08    12003      335
+11.1   6030   30%     3.1     34.41    12140      180
+11.1   6030   50%     4.6     51.06    15621      249
+11.1   6030   75%     6.9     76.59    16420      350
+11.1   6030   100%    10.3   114.33   18953      480
+11.1   6045   30%     3.8      42.18     9592      210
+11.1   6045   50%     5.8      64.38   11258      292.5
+11.1   6045   75%     10.1    112.11  13817      430.5
+11.1   6045   100%    16.2    179.82  16315      594.5
