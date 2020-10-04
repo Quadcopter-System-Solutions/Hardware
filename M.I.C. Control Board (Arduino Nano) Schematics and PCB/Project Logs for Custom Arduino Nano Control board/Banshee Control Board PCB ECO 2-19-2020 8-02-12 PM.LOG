@@ -1,8 +1,0 @@
-Removed Member From Class: ClassName=Vreg Member=LED1
-Change Component Designator: OldDesignator=LED1 NewDesignator=L1
-Change Component Designator: OldDesignator=LED2 NewDesignator=L2
-Change Component Designator: OldDesignator=LED3 NewDesignator=L3
-Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetL1_1
-Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetL2_1
-Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetL3_1
-Added Member To Class: ClassName=Vreg Member=Component L1 4.7uH

@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=LED2 Old Footprint=*0603 New Footprint=LED-0
-Change Component Footprint: Designator=LED3 Old Footprint=*0603 New Footprint=LED-0
-Change Component Footprint: Designator=Batt Old Footprint=*BAT_BU2032SM-JJ-GTR_BU2032SM-JJ-GTR(Primary) New Footprint=BAT-2
-Change Component Footprint: Designator=X1 Old Footprint=*XTAL_ECS-160-12-30BQ-AEN-TR New Footprint=R38
-Change Component Comment: Designator=X1 Old Comment=16 MHz Crystal New Comment=16MHz

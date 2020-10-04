@@ -1,6 +1,0 @@
-Removed Member From Class: ClassName=Nano Member=R3
-Removed Member From Class: ClassName=Nano Member=R4
-Change Component Footprint: Designator=R6 Old Footprint=AXIAL-0.3 New Footprint=SMD-0603-RES
-Change Component Footprint: Designator=R5 Old Footprint=AXIAL-0.3 New Footprint=SMD-0603C
-Added Member To Class: ClassName=Nano Member=Component R5 Res1
-Added Member To Class: ClassName=Nano Member=Component R6 Res1

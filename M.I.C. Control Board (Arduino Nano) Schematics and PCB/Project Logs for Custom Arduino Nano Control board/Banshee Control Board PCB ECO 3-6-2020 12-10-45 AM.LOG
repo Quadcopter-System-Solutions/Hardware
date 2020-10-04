@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=SMD-0603-RES
-Change Component Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=SMD-0603-RES
-Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=SMD-0603C
-Change Component Footprint: Designator=C2 Old Footprint=RAD-0.3 New Footprint=SMD-0603C
-Added Room: Name=RF

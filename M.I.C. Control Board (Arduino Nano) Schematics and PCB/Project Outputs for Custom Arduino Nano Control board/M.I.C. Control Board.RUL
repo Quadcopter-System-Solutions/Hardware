@@ -1,5 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\migoy\OneDrive - University of Victoria\Miguel's Folder\PCB Designs and Schematics\Quadcopter\Custom Arduino Nano Control board\M.I.C. Control Board.PcbDoc
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

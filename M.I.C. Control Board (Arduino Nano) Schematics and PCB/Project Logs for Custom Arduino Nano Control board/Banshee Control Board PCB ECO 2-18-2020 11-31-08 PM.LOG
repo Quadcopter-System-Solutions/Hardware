@@ -1,9 +1,0 @@
-Added Component: Designator=Batt(*BAT_BU2032SM-JJ-GTR_BU2032SM-JJ-GTR(Primary))
-Add component. Clean all parameters for all variants
-Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "PackageDescription"; Value = "Battery; 2 Leads"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "PackageReference"; Value = "BAT-2"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Vreg Member=Component Batt 3V Coin Cell

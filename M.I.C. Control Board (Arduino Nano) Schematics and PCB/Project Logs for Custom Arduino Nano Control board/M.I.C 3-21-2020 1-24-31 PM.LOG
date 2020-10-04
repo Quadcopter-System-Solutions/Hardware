@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=Batt1-4
-Change Component Description : Designator=X1 Old Description=16MHz ±25ppm Crystal 12pF 50 Ohms 4-SMD, No Lead New Description=
-16MHz ±25ppm Crystal 12pF 50 Ohms 4-SMD, No Lead
-
-Added Member To Class: ClassName=Nano Member=Component Nano1 Arduino Nano Atmega 328P
