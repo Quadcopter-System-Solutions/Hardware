@@ -38,3 +38,4 @@ scripts/__pycache__/
 */Simulations/*.net
 */Simulations/*.raw
 */Simulations/*.plt
+*.SchDocPreview
