@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VCESNRLW
+DocumentUniqueId=DWWLHTTK
 
 [Document3]
 DocumentPath=Sensor Breakout Board.BomDoc
@@ -106,6 +106,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Sensor Breakout Board\Design Rule Check - Sensor Breakout.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Sensor Breakout 2020-11-22 11-25-37 PM.WAS
 DItemRevisionGUID=
 
