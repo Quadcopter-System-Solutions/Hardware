@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USBtoUARTboard.PcbDoc   2021-01-17  4:00:45 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USBtoUARTboard-RoundHoles.TXT
+ASCII SlotHoles File : USBtoUARTboard-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             79        PTH        0.00inch (0.00mm)
+T2      18mil (0.45mm)                                            Slot              4         PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T4      35mil (0.899mm)                                           Round             12        PTH        0.00inch (0.00mm)
+T5      40mil (1.016mm)                                           Round             6         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              105
+
+Total Processing Time (hh:mm:ss) : 00:00:00
